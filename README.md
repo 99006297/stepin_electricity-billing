@@ -1,4 +1,5 @@
-Electricity billing
+ELECTRICITY BILLING
+-------------------
 
 INTRODUCTION
 ------------
